@@ -35,6 +35,7 @@ nav ul li a {
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 20px;
+    text-align: justify;
 }
 .div-img{
 align-items: center;
